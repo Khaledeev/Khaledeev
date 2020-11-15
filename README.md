@@ -57,7 +57,7 @@
 <br />
 
 ### Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/kemfilms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30" width="30" /></a> <a href="https://linkedin.com/in/khalid-mesbah-ab8937195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled" height="30" width="30" /></a> <a href="https://instagram.com/khaledthe.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30" width="30" /></a>
 
 </p>
