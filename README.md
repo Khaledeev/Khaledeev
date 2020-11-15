@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Instagram Follow](https://img.shields.io/instagram/followers/Dl-ekLb4quE?label=khaledthe.1&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/khaledthe.1)
+[![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapac&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/khaledthe.1)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kemfilms?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kemfilms)
 
