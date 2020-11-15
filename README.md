@@ -28,7 +28,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="45" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/sql/sql-original-wordmark.svg" alt="sql" width="50" height="40"/>
+<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/sql/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -58,14 +58,11 @@
 <br />
 
 ### Connect with me:
-<p align ="center">
-[<img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- </p>
+<p align="center">
+<a href="https://twitter.com/kemfilms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30" width="30" /></a>
+ 
+<a href="https://linkedin.com/in/khalid-mesbah-ab8937195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled" height="30" width="30" /></a>
 
-[twitter]: https://twitter.com/kemfilms
-[youtube]: https://youtube.com/kemfilms
-[instagram]: https://instagram.com/khaledthe.1
-[linkedin]: https://linkedin.com/in/khalid-mesbah-ab8937195
+<a href="https://instagram.com/khaledthe.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30" width="30" /></a>
+
+</p>
