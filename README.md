@@ -1,10 +1,8 @@
 ### Hi there, I'm Khalid Mesbah 👋
-
-<br />
-<br />
- 
+<br/>
 [![Twitter Follow](https://img.shields.io/twitter/follow/kemfilms?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kemfilms)
-
+<br/>
+<br/>
 ## I'm a Full Stack developer and a good video editor!!
 
 - 🔭 I'm currently studying software development!
@@ -15,11 +13,8 @@
 - ⚡ Fun fact: I love playing guitar !
 
 <br />
-<br />
 
 ### Languages and Tools:
-
-
 
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -37,14 +32,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="premierepro" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
- 
  </p>
 
 <br />
-<br />
-
-
-
 
 <p>
   <summary>:zap: GitHub Stats</summary>
