@@ -11,7 +11,7 @@
 ## I'm a Full Stack developer and a good video editor!!
 
 - 🔭 I'm currently studying software development!
-- 🌱 I Love learning everything 🤣
+- 🌱 Open to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: khalidmesbah8@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
