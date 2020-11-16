@@ -8,7 +8,7 @@
 
 <br/>
 
-## I'm a Full Stack developer and a good video editor!!
+## I'm a Full Stack developer and a good video editor
 
 - 🔭 I'm currently studying software development!
 - 🌱 Open to learn everything 🤣
@@ -58,7 +58,7 @@
 <p>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=khaledmcbah&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=khaledeev&show_icons=true&hide_border=true" />
 
 </p>
 
