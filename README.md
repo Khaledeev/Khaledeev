@@ -8,7 +8,7 @@
 
 <br/>
 
-## I'm a Full Stack developer and a good video editor
+## I'm a Software Developer and a good video editor
 
 - 🔭 I'm currently studying software development!
 - 🌱 Open to learn everything 🤣
