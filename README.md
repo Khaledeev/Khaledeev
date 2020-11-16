@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: khalidmesbah8@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing guitar !
+- ⚡ Fun fact: I love playing guitar/drums !
 
 <br />
 
