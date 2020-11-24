@@ -13,7 +13,7 @@
 - 🔭 I'm currently studying software development!
 - 🌱 Open to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me: khalidmesbah8@gmail.com
+- 📫 How to reach me: devkhalidmesbah@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing guitar/drums !
 
