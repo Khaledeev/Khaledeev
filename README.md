@@ -28,7 +28,7 @@
  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  
- <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60px" /> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/larael/laravel-original-wordmark.svg" alt="nodejs" width="60px" /> 
  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
  
