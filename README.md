@@ -40,7 +40,7 @@
  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60px"/> 
  
- <img src="https://www.vectorlogo.zone/logos/laravel-scm/laravel-scm-icon.svg" alt="git" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  
  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  
