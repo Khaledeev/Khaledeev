@@ -32,8 +32,6 @@
  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
  
- <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
- 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50px" />
  
  <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -67,8 +65,13 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30" width="30" /></a> 
-<a href="https://linkedin.com/in/khalidmesbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled" height="30" width="30" /></a> 
-<a href="https://instagram.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30" width="30" /></a>
+<a href="https://twitter.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30"  width="30"/>
+</a> 
+ 
+<a href="https://linkedin.com/in/khalidmesbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled"  height="30" width="30" />
+</a> 
+ 
+<a href="https://instagram.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30"  width="30" />
+</a>
 
 </p>
