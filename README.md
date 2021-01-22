@@ -56,7 +56,7 @@
 <br/>
  
 ### Connect with me:
-<p align="left">
+<p align="center">
  
 <a href="https://twitter.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30"  width="30"/>
 </a>  <a href="https://linkedin.com/in/khalidmesbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled"  height="30" width="30" />
