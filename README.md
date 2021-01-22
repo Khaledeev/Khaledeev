@@ -13,7 +13,7 @@
 - 🔭 I'm currently studying Web development!
 - 🌱 Open to learn anything 🤣
 - 👯 I’m looking to collaborate with other Developers and creators
-- 📫 How to reach me: devkhalidmesbah@gmail.com
+- 📫 To reach me: devkhalidmesbah@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing guitar/drums!
 
@@ -67,6 +67,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30" width="30" /></a> <a href="https://linkedin.com/in/khalidmesbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled" height="30" width="30" /></a> <a href="https://instagram.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30" width="30" /></a>
+<a href="https://twitter.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khaled" height="30" width="30" /></a> 
+<a href="https://linkedin.com/in/khalidmesbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled" height="30" width="30" /></a> 
+<a href="https://instagram.com/khaledeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khaled" height="30" width="30" /></a>
 
 </p>
