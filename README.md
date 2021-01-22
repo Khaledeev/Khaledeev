@@ -53,13 +53,6 @@
 
 <br />
 
-<p>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=khaledeev&show_icons=true&hide_border=true" />
-
-</p>
-
 <br/>
  
 ### Connect with me:
