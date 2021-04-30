@@ -8,12 +8,12 @@
 
 <br/>
 
-## I'm a Full-Stack Web Developer and a good video editor
+## I'm a Web Developer 
 
 - 🔭 I'm currently studying Web development!
 - 🌱 Open to learn anything 🤣
 - 👯 I’m looking to collaborate with other Developers and creators
-- 📫 To reach me: devkhalidmesbah@gmail.com
+- 📫 Reach me: devkhalidmesbah@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love playing guitar/drums!
 
