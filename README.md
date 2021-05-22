@@ -10,9 +10,9 @@
 
 ## I'm a Web Developer 
 
-- 🔭 I'm currently studying Web development!
+- 🔭 I'm currently studying Laravel and VueJS!
 - 🌱 Open to learn anything 🤣
-- 👯 I’m looking to collaborate with other Developers and creators
+- 👯 I’m looking to collaborate with other Developers
 - 📫 Reach me: devkhalidmesbah@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love playing guitar/drums!
