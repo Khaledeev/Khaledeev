@@ -24,7 +24,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khalid's Spotify Playing" width="420" />](https://open.spotify.com/user/1vhuu13dvbnklrvp9rfszaru3?si=1eb574a00bd14031)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khalid's Spotify Playing" width="420" />](https://open.spotify.com/playlist/4PJbNZ3V39D61f6IrQmUrc?si=28fb01b534c94bc6)
 
 
 
