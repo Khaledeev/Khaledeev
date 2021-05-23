@@ -1,15 +1,10 @@
 ### Hi there, I'm Khalid 👋
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/khalidmesbah) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/khaledeev) <img alt="Instagram" src="https://img.shields.io/badge/khaledeev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/khaledeev) 
+  <a target="_blank"href="https://www.linkedin.com/in/khalidmesbah/"> <img alt="Instagram" src="https://img.shields.io/badge/khaledeev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
 <!--  <img alt="LinkedIn" src="https://img.shields.io/badge/Khalid Mesbah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## I'm a Moroccan FullStack Web Developer !
 
@@ -53,6 +48,14 @@
   <img align="left" alt="Khalid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaledeev&show_icons=true&hide_border=true" />
 
 </details>
+
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/khalidmesbah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ### Connect with me:
