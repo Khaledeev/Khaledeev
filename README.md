@@ -33,6 +33,9 @@
 <img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1" />
 <img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FColor%2FPNG%2F512%2FLogos%2Fhtml_5-512.png&f=1&nofb=1" />
 <img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Falecive%2Fflatwoken%2F512%2FApps-Terminal-Pc-104-icon.png&f=1&nofb=1" />
+<img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDatabase-Free-PNG-Image.png&f=1&nofb=1" />
+<img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.elearningworld.org%2Fwp-content%2Fuploads%2F2019%2F04%2FMySQL.svg.png&f=1&nofb=1" />
+<img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Pa_6vDAwwMyN9MN-OWkCeQHaHa%26pid%3DApi&f=1" />
 
 
 
