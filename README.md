@@ -1,7 +1,7 @@
 ### Hi there, I'm Khalid 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=khaledeev)[![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Khaledeev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/khaledeev/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=khaledeev)  [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Khaledeev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/khaledeev/)
 
 
 ## I'm a Moroccan FullStack developer !
