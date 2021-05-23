@@ -5,7 +5,7 @@
  <img alt="LinkedIn" src="https://img.shields.io/badge/Khalid Mesbah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
-## I'm a Moroccan FullStack developer !
+## I'm a Full-Stack developer !
 
 - 🔭 I'm currently studying Laravel and VueJS!
 - 🌱 Open to learn anything 🤣
