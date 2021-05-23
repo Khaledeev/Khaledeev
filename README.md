@@ -27,7 +27,7 @@
 
 <img align="left" alt="Laravel" width="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>
 <img align="left" alt="Vue JS" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2017%2F11%2Fvue-js.png&f=1&nofb=1"/>
-<img align="left" style="padding-top : 10px;" alt="php" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F27%2FPHP-logo.svg%2F1280px-PHP-logo.svg.png&f=1&nofb=1"/>
+<img align="left" alt="php" width="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F27%2FPHP-logo.svg%2F1280px-PHP-logo.svg.png&f=1&nofb=1"/>
 <img align="left" alt="Git" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" />
 <img align="left" alt="LiveWire" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Findykoning.nl%2Fwp-content%2Fuploads%2F2020%2F03%2FLivewire.png&f=1&nofb=1" />
 <img align="left" alt="Visual Studio Code" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1" />
