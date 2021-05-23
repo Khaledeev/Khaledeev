@@ -23,7 +23,7 @@
 
 
 ### Spotify Now Playing 🎧
-[![Spotify](https://kdevmusic.vercel.app/api/spotify)](https://open.spotify.com/user/1vhuu13dvbnklrvp9rfszaru3)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/4PJbNZ3V39D61f6IrQmUrc?si=9bdb284d9879420f)
 
 
 
