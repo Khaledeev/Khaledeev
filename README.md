@@ -1,6 +1,7 @@
 ### Hi there, I'm Khalid 👋
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/khalidmesbah) 
+![Build Status](https://erwstout.semaphoreci.com/badges/hotdog-boyz-discord-app.svg?style=shields) ![GitHub top language]
 [![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) <img alt="Instagram" src="https://img.shields.io/badge/khaledeev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <!--  <img alt="LinkedIn" src="https://img.shields.io/badge/Khalid Mesbah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 
