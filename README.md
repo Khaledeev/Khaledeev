@@ -1,8 +1,8 @@
 ### Hi there, I'm Khalid 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) <img alt="Instagram" src="https://instgram.com/khaledeev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[![Twitter Follow](https://img.shields.io/twitter/follow/khaledeev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/) <img alt="Instagram" src="https://img.shields.io/badge/khaledeev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img alt="LinkedIn" src="https://img.shields.io/badge/Khalid Mesbah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 ## I'm a Moroccan FullStack developer !
