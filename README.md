@@ -5,7 +5,7 @@
 <!--  <img alt="LinkedIn" src="https://img.shields.io/badge/Khalid Mesbah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 
 
-## I'm a Moroccan FullStack Web Developer !
+## I'm a FullStack Web Developer !
 
 - 🔭 I'm currently studying Laravel and VueJS!
 - 🌱 Open to learn anything 🤣
