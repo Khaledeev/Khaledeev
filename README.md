@@ -22,9 +22,8 @@
 
 
 
-
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khalid's Spotify Playing" width="420" />](https://open.spotify.com/playlist/4PJbNZ3V39D61f6IrQmUrc?si=28fb01b534c94bc6)
+[![Spotify](https://kdevmusic.vercel.app/api/spotify)](https://open.spotify.com/user/khaledeev)
 
 
 
