@@ -36,7 +36,7 @@
 <img align="left" alt="Databases" width="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDatabase-Free-PNG-Image.png&f=1&nofb=1" />
 <img align="left" alt="Mysql" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.elearningworld.org%2Fwp-content%2Fuploads%2F2019%2F04%2FMySQL.svg.png&f=1&nofb=1" />
 <img align="left" alt="CSS" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Pa_6vDAwwMyN9MN-OWkCeQHaHa%26pid%3DApi&f=1" />
-<img align="left" alt="Html5" width="55" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FColor%2FPNG%2F512%2FLogos%2Fhtml_5-512.png&f=1&nofb=1" />
+<img align="left" alt="Html5" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fhtml5-logo-11.png&f=1&nofb=1" />
 
 
 
