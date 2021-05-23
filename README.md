@@ -57,7 +57,7 @@
   <a target="_blank"href="https://twitter.com/khaledeev">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:devkhalidmesbah@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <a href="mailto:devkhalidmesbah@gmail.com?subject=Hello%20Khalid,%20From%20Github">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/khaledeev"> 
