@@ -23,7 +23,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://kdevmusic.vercel.app/api/spotify)](https://open.spotify.com/user/khaledeev)
+[![Spotify](https://khaledeev.vercel.app/api/spotify)](https://open.spotify.com/user/khaledeev)
 
 
 
