@@ -54,8 +54,10 @@
 
 </details>
 
-[website]: https://dev.to/khaledeev
-[facebook]: https://www.facebook.com/
-[youtube]: https://www.youtube.com/c/khaledeev
-[instagram]: https://www.instagram.com/khaledeev
-[linkedin]: https://www.linkedin.com/in/khaledeev/
+
+
+[website]: https://dev.to/khaledeev/
+[facebook]: https://www.facebook.com/khaledeev/
+[youtube]: https://www.youtube.com/c/khaledeev/
+[instagram]: https://www.instagram.com/khaledeev/
+[linkedin]: https://www.linkedin.com/in/khalidmesbah/
