@@ -34,8 +34,7 @@
 
 <details>
   <summary>:zap: Most used languages</summary>
-  <br/>
-  <br/>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledeev)](https://github.com/khaledeev/github-readme-stats)
 
 
