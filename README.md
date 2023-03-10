@@ -8,7 +8,7 @@
 ## I'm a FullStack Web Developer !
 
 - 🔭 I'm currently studying Laravel and VueJS!
-- 🌱 Open to learn anything 🤣
+- 🌱 Open to learn anything ✌️
 - 👯 I’m looking to collaborate with other Developers
 - 📫 Reach me: devkhalidmesbah@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects 
@@ -23,7 +23,7 @@
 
 
 ### Spotify Now Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/4PJbNZ3V39D61f6IrQmUrc?si=9bdb284d9879420f)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/5L2lIgmur3xkl1jfnVsJF3?si=35d22e4a7fcb4cc7)
 
 
 
