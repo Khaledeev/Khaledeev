@@ -23,7 +23,7 @@
 
 
 ### Spotify Now Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/5L2lIgmur3xkl1jfnVsJF3?si=35d22e4a7fcb4cc7)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/2xsIoqzZXdHDvnrot6Z8ql?si=74048ffa72d945ee)
 
 
 
