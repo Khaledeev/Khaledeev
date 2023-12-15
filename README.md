@@ -7,11 +7,11 @@
 
 ## I'm a FullStack Web Developer !
 
-- 🔭 I'm currently studying Laravel and VueJS!
+- 🔭 I'm currently studying Laravel Livewire and VueJS!
 - 🌱 Open to learn anything ✌️
 - 👯 I’m looking to collaborate with other Developers
 - 📫 Reach me: devkhalidmesbah@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects 
+- 🥅 2023 Goals: Contribute more to Open Source projects 
 
 
 
